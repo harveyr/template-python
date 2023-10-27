@@ -1,4 +1,7 @@
-black
-flake8-black
-isort
-mypy
+# dev
+black==23.9.1
+isort==5.12.0
+mypy==1.6.0
+ruff==0.1.0
+pyright==1.1.332
+pytest==7.4.2
